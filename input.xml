@@ -1,0 +1,14 @@
+base_value := 50;
+name := [[John]];
+age := |base_value|;
+settings := {
+    theme => [[dark]],
+    preferences => {
+        font_size => |base_value|,
+        colors => {
+            background => [[black]],
+            text => [[white]],
+        },
+    },
+    version => 3,
+};

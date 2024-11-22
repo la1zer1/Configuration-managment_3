@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<config>
+	<constant name="base_value">50</constant>
+	<constant name="name">John</constant>
+	<constant name="age">50</constant>
+	<constant name="settings">
+		<dictionary>
+			<entry key="theme">dark</entry>
+			<entry key="preferences">
+				<dictionary>
+					<entry key="font_size">50</entry>
+					<entry key="colors">
+						<dictionary>
+							<entry key="background">black</entry>
+							<entry key="text">white</entry>
+						</dictionary>
+					</entry>
+				</dictionary>
+			</entry>
+			<entry key="version">3</entry>
+		</dictionary>
+	</constant>
+</config>
